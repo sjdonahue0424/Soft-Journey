@@ -1,0 +1,10 @@
+[donahue]
+	steven = Steven Donahue
+[user]
+	email = donahue.steven@gmail.com
+	name = Steven Donahue
+[transfer]
+	fsckObjects = true
+[core]
+	editor = emacs
+	editor = emacs
